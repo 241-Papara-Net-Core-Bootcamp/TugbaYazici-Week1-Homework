@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6FBC1F6D-5431-4FD2-B9DA-DAF7C434DE46}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Owner.API/Controllers/OwnerController.cs">
+    <Files>
+      <File FileName="Owner.API/Program.cs" Line="1" Column="1" />
+      <File FileName="Owner.API/Startup.cs" Line="1" Column="1" />
+      <File FileName="Owner.API/Model/Owner.cs" Line="12" Column="6" />
+      <File FileName="Owner.API/Controllers/OwnerController.cs" Line="24" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Owner.API" expanded="True">
+            <Node name="Owner.API" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Owner.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+</Properties>
